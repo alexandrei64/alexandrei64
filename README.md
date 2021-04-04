@@ -4,12 +4,12 @@
 
 ### Reach me at:
 
-<a href="https://www.linkedin.com/in/alexandrei64">
-  <img src="/Assets/linkedin_icon.png"/ width=20>
+<a href="https://www.linkedin.com/in/alexandrei64" target="_blank>
+  <img src="/Assets/linkedin_icon.png"/ width=35>
 </a>
 
-<a href="https://www.twitter.com/alexandrei64">
-  <img src="/Assets/twitter_icon.png"/ width=20>
+<a href="https://www.twitter.com/alexandrei64" target="_blank>
+  <img src="/Assets/twitter_icon.png"/ width=35>
 </a>
 
 <!---
