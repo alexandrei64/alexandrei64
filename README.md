@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexandrei64
-- 👀 I’m interested in iOS development.
-- 📚 I’m currently learning Swift.
+- 👀 I’m interested in Data Analysis.
+- 📚 I’m currently learning Python.
 
 <!---
 alexandrei64/alexandrei64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
