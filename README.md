@@ -13,7 +13,6 @@ I'm a Data Analyst with a passion for uncovering insights and supporting data-dr
 
 ## 🌐 Connect with Me
 
-[![X](https://img.shields.io/badge/%40alexandrei64-black?style=flat-square&logo=x)](https://www.x.com/alexandrei64)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/alexandrei64)
 
 <!---
